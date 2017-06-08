@@ -1,0 +1,16 @@
+Ng2-Bootstrap: http://valor-software.com/ngx-bootstrap/#/
+
+Pasos de instalacion:https://github.com/valor-software/ngx-bootstrap/blob/development/docs/getting-started/ng-cli.md
+
+
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+
+
+
+Subir aplicacion al servidor:
+1) ng build -> se crea la carpeta dist con los .js y la carpeta assets con las imagenes, que hay que subir al hosting
+
+2) cambiar en index.html
+     <base href="/"> ->  <base href="/miAplicacion"> (miAplicacion es la ruta donde se hosteo)
+
+3) Puede que tire error en las rutas de las imagenes -> renombrarlas
