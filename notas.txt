@@ -13,4 +13,8 @@ Subir aplicacion al servidor:
 2) cambiar en index.html
      <base href="/"> ->  <base href="/miAplicacion"> (miAplicacion es la ruta donde se hosteo)
 
-3) Puede que tire error en las rutas de las imagenes -> renombrarlas
+3) Puede que tire error en las rutas de las imagenes -> renombrar las rutas
+
+
+
+Hacer un evento que muestre un valor por consola (alert2)
